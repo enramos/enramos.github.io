@@ -1,2 +1,2 @@
 # enramos.github.io
-GituHub Page
+GitHub Page

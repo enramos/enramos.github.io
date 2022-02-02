@@ -613,18 +613,12 @@
             </li>
 
             <li class="list-inline-item">
-              <i class="devicon-jquery-plain-wordmark"></i>
+              <i class="devicons devicons-w3c"></i>
             </li>
 
-			         <li class="list-inline-item">
+			<li class="list-inline-item">
               <i class="devicons devicons-bootstrap"></i>
             </li>
-
-            </ul>
-          </div>
-
-            <div class="subheading mb-3">CMS/LMS/LCMS</div>
-            <ul class="list-inline list-icons">
 
             <li class="list-inline-item">
               <i class="devicon-moodle-plain-wordmark"></i>

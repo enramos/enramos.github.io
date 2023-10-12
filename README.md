@@ -1,2 +1,2 @@
-# enramos.github.io
-GitHub Page enramos.es
+# enramos.es (enramos.github.io)
+GitHub Page

@@ -1,0 +1,4 @@
+---
+BUNDLE_DISABLE_PLATFORM_WARNINGS: "true"
+BUNDLE_WITHOUT: "test:development"
+BUNDLE_PATH: "vendor/bundle"
